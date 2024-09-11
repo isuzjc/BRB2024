@@ -9,7 +9,6 @@ Protocol 1:
 
 ## Strain
 The in vitro analysis of the strain screening with BRB and DBP treatment. 
-
 - [ ] BRB_Strain_CAPR.Rmd: R Markdown document of the in vitro strain screening assay. 
 - [ ] BRB_Strain_CAPR.html: HTML report of the in vitro strain screening assay.
 - [ ] JEB00020.xlsx: The OD values of strain A. muciniphila JEB00020 treated by BRB and DBP over 72 hours.
