@@ -14,6 +14,6 @@ The in vitro analysis of the strain screening with BRB and DBP treatment.
 <br>JEB00423.xlsx: The OD values of strain A. muciniphila JEB00423 treated by BRB and DBP over 72 hours.
 <br>BRB.xlsx: The growth curve parameters of our lab strains treated after BRB treatment.
 <br>DBP.xlsx: The growth curve parameters of our lab strains treated after DBP treatment.
-GTDB_taxonomy.xlsx:
-Bisanz_strain.xlsx
-RAxML_bestTree.faas_refined.tre
+<br>GTDB_taxonomy.xlsx:
+<br>Bisanz_strain.xlsx
+<br>RAxML_bestTree.faas_refined.tre
